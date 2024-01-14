@@ -21,5 +21,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/trueromanus/ArdorQuery
-        tag: 0.0.13.1
-        commit: 9d299a74e6c6fe53040d3eb39f8a09e30b11c200
+        tag: 0.0.14
+        commit: 7744224d6e72ff9c5fe013e3b3eeb79caca25bbc
